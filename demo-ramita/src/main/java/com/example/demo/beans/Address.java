@@ -1,6 +1,10 @@
 package com.example.demo.beans;
 
+<<<<<<< HEAD
 //author ramita 123
+=======
+//author ramita 321
+>>>>>>> branch 'main' of https://github.com/ramita-sardana/spring-ramita.git
 public class Address {
 	
 	private String street;
