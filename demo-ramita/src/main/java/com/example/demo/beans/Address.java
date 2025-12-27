@@ -4,9 +4,27 @@ package com.example.demo.beans;
 
 public class Address {
 	
-	private String street;
+	private Integer flatNumber; // problem?
+	
+	private String street; // is it a problem?
 	
 	private String city;
+	
+	
+
+	/**
+	 * @return the flatNumber
+	 */
+	public Integer getFlatNumber() {
+		return flatNumber;
+	}
+
+	/**
+	 * @param flatNumber the flatNumber to set
+	 */
+	public void setFlatNumber(Integer flatNumber) {
+		this.flatNumber = flatNumber;
+	}
 
 	/**
 	 * @return the street
