@@ -4,7 +4,7 @@ package com.example.demo.beans;
 
 public class Address {
 	
-	private String street;
+	private String street; //number
 	
 	private String city;
 
