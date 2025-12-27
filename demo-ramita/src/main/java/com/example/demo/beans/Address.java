@@ -4,7 +4,7 @@ package com.example.demo.beans;
 
 public class Address {
 	
-	private Integer flatNum; // problem?
+	private Integer flatNum; // problem? try
 	
 	private String street; //number
 	
