@@ -4,7 +4,7 @@ package com.example.demo.beans;
 
 public class Address {
 	
-	private Integer flatNumber; // problem?
+	private Integer flatNum; // problem?
 	
 	private String street; //number
 	
@@ -16,14 +16,14 @@ public class Address {
 	 * @return the flatNumber
 	 */
 	public Integer getFlatNumber() {
-		return flatNumber;
+		return flatNum;
 	}
 
 	/**
 	 * @param flatNumber the flatNumber to set
 	 */
 	public void setFlatNumber(Integer flatNumber) {
-		this.flatNumber = flatNumber;
+		this.flatNum = flatNumber;
 	}
 
 	/**
