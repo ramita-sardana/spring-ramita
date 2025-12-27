@@ -6,7 +6,7 @@ public class Address {
 	
 	private Integer flatNumber; // problem?
 	
-	private String street; // is it a problem?
+	private String street; //number
 	
 	private String city;
 	
